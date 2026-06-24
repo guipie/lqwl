@@ -1,0 +1,1 @@
+{"version":3,"file":"help-center.js","sources":["../../../HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvc2VydmljZXMvaGVscC1jZW50ZXIudnVl"],"sourcesContent":["import MiniProgramPage from 'D:/work/laoqiao_wl/老乔物流/pages/services/help-center.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;AACA,GAAG,WAAW,eAAe;"}
